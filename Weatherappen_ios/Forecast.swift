@@ -89,7 +89,7 @@ class Forecast {
 }
 
 
-// Craete an ectension for the date to display the day of the week
+// Craete an extension for the date to display the day of the week
 extension Date {
     func dayOfTheWeek() -> String {
         let dateFormatter = DateFormatter()
