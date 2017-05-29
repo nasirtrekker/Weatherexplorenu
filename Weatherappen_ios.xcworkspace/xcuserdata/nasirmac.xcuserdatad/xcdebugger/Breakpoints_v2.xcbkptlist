@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weatherappen_ios/WeatherViewController.swift"
+            timestampString = "517761638.054644"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "WeatherViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weatherappen_ios.WeatherViewController.locationLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "Weatherappen_ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nasirmac/Documents/Weatherappen_ios/Weatherappen_ios/WeatherViewController.swift"
+                  timestampString = "517761638.282636"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weatherappen_ios.WeatherViewController.locationLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "Weatherappen_ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nasirmac/Documents/Weatherappen_ios/Weatherappen_ios/WeatherViewController.swift"
+                  timestampString = "517761638.287874"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weatherappen_ios.WeatherViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Weatherappen_ios.WeatherViewController"
+                  moduleName = "Weatherappen_ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nasirmac/Documents/Weatherappen_ios/Weatherappen_ios/WeatherViewController.swift"
+                  timestampString = "517761638.291042"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "233">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weatherappen_ios.WeatherViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Weatherappen_ios.WeatherViewController&gt;"
+                  moduleName = "Weatherappen_ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nasirmac/Documents/Weatherappen_ios/Weatherappen_ios/WeatherViewController.swift"
+                  timestampString = "517761638.293431"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weatherappen_ios/WeatherViewController.swift"
+            timestampString = "517761639.136589"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "WeatherViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weatherappen_ios.WeatherViewController.currentWeatherImage.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "Weatherappen_ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nasirmac/Documents/Weatherappen_ios/Weatherappen_ios/WeatherViewController.swift"
+                  timestampString = "517761639.143718"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weatherappen_ios.WeatherViewController.currentWeatherImage.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "Weatherappen_ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nasirmac/Documents/Weatherappen_ios/Weatherappen_ios/WeatherViewController.swift"
+                  timestampString = "517761639.147528"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weatherappen_ios.WeatherViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Weatherappen_ios.WeatherViewController"
+                  moduleName = "Weatherappen_ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nasirmac/Documents/Weatherappen_ios/Weatherappen_ios/WeatherViewController.swift"
+                  timestampString = "517761639.150986"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weatherappen_ios.WeatherViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Weatherappen_ios.WeatherViewController&gt;"
+                  moduleName = "Weatherappen_ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nasirmac/Documents/Weatherappen_ios/Weatherappen_ios/WeatherViewController.swift"
+                  timestampString = "517761639.154479"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weatherappen_ios/WeatherViewController.swift"
+            timestampString = "517761640.004123"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "WeatherViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weatherappen_ios.WeatherViewController.tableView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITableView&gt;"
+                  moduleName = "Weatherappen_ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nasirmac/Documents/Weatherappen_ios/Weatherappen_ios/WeatherViewController.swift"
+                  timestampString = "517761640.011072"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weatherappen_ios.WeatherViewController.tableView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITableView&gt;"
+                  moduleName = "Weatherappen_ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nasirmac/Documents/Weatherappen_ios/Weatherappen_ios/WeatherViewController.swift"
+                  timestampString = "517761640.015429"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weatherappen_ios.WeatherViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Weatherappen_ios.WeatherViewController"
+                  moduleName = "Weatherappen_ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nasirmac/Documents/Weatherappen_ios/Weatherappen_ios/WeatherViewController.swift"
+                  timestampString = "517761640.018711"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "410">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weatherappen_ios.WeatherViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Weatherappen_ios.WeatherViewController&gt;"
+                  moduleName = "Weatherappen_ios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nasirmac/Documents/Weatherappen_ios/Weatherappen_ios/WeatherViewController.swift"
+                  timestampString = "517761640.021778"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

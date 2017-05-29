@@ -1,0 +1,17 @@
+//
+//  Location.swift
+//  Weatherappen_ios
+//
+//  Created by Nasir Uddin on 29/05/2017.
+//  Copyright © 2017 Nasir Uddin. All rights reserved.
+//
+import CoreLocation
+
+class Location {
+    static var sharedInstace = Location()
+    private init() {}
+    
+    var latitude: Double!
+    var longtitude: Double!
+}
+
