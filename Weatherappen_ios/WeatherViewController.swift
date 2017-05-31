@@ -9,6 +9,8 @@ import UIKit
 import Alamofire
 import CoreLocation
 
+
+
 class WeatherViewController: UIViewController, UITableViewDelegate, UITableViewDataSource, CLLocationManagerDelegate {
     
     
@@ -19,7 +21,7 @@ class WeatherViewController: UIViewController, UITableViewDelegate, UITableViewD
     @IBOutlet weak var currentWeatherImage: UIImageView!
     @IBOutlet weak var currentWeatherTypeLabel: UILabel!
     @IBOutlet weak var tableView: UITableView!
-    
+
     //// Weather Variables
     var currentWeather: CurrentWeather!
     var forecast: Forecast!
@@ -28,7 +30,6 @@ class WeatherViewController: UIViewController, UITableViewDelegate, UITableViewD
     //// Location Variables
     let locationManager = CLLocationManager()
     var currentLocation: CLLocation! = nil
-    
     
     
     override func viewDidLoad() {
@@ -148,8 +149,8 @@ class WeatherViewController: UIViewController, UITableViewDelegate, UITableViewD
             
             // Get users location coordinates
             currentLocation = locationManager.location
-            Location.sharedInstace.latitude = currentLocation.coordinate.latitude
-            Location.sharedInstace.longtitude = currentLocation.coordinate.longitude
+            Location.sharedInstance.latitude = currentLocation.coordinate.latitude
+            Location.sharedInstance.longitude = currentLocation.coordinate.longitude
             
             // Once coordinate are downloaded then update ui
             currentWeather.downloadWeatherDetails {

@@ -8,6 +8,7 @@ target 'Weatherappen_ios' do
   # Pods for Weatherappen_ios
   pod 'Alamofire', '~> 4.0'
   pod 'ScrollableGraphView'
+  
 
   end
 

@@ -8,10 +8,10 @@
 import CoreLocation
 
 class Location {
-    static var sharedInstace = Location()
+    static var sharedInstance = Location()
     private init() {}
     
     var latitude: Double!
-    var longtitude: Double!
+    var longitude: Double!
 }
 
